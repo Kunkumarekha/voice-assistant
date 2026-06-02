@@ -1,0 +1,19 @@
+Start
+  │
+  ▼
+Listen to Voice
+  │
+  ▼
+Convert Speech → Text
+  │
+  ▼
+Check Command
+  │
+  ├── youtube → Open YouTube
+  ├── gmail   → Open Gmail
+  ├── google  → Open Google
+  ├── calculator → Open Calculator
+  └── stop → Exit
+  │
+  ▼
+Listen Again
